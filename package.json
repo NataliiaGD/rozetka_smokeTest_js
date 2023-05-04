@@ -1,0 +1,16 @@
+{
+  "name": "rozetka_smoketest_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "playwright": "^1.33.0"
+  }
+}
