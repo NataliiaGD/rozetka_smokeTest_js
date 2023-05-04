@@ -5,6 +5,8 @@ The tests have been designed by using Playwright Testing Framework of Javascript
 To run the tests, please install playwright with the following command: 
 
 npm i -D playwright
+
+
 npm install -D jest         
 
 To run the test , please type the following command:
